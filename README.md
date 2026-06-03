@@ -1,2 +1,3 @@
 # ImageRecognitionUsingJWTauthentication
 This is a image Recognition system for an attendance system which train and recognize images one by one and useful for normal attendance system for a company or school etc . there is authentication system  using Json web token  when authenticate and authorize user accroding to therir role...
+<img src="train/diagram.png" alt="Project Screenshot" width="600">
